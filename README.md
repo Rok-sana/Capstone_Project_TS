@@ -45,14 +45,6 @@ Final Thoughts: This competition provided valuable insights into retail forecast
 
 ## Conclusions ##
 
-Based on the analysis of Walmart sales data across states and stores from January 29th, 2011, to April 24th, 2016, we observe an overall increasing trend in sales over the years. Sales are observed to be zero on the very first day of each year due to store closures on New Year's Day. Each year shows seasonal patterns, and the time series within each year is stationary. Monthly sales tend to be highest in March and lowest in November. Sales are highest on weekends compared to weekdays (Monday to Thursday), with Fridays slightly higher than other weekdays.
-
-California has the highest sales and revenue generated, while Texas and Wisconsin show similar levels of sales and revenue. The Food category accounts for 70% of sales but contributes only 58% of the revenue, indicating lower average prices compared to other categories. Sales are slightly higher on SNAP (Supplemental Nutrition Assistance Program) days compared to non-SNAP days across all states.
-
-Each product category exhibits non-periodic daily sales patterns, with Food products showing higher overall sales and revenue due to their larger variety. Sales increase during sporting and cultural events but decrease on national holidays. Sales are higher at the beginning of the month and decrease gradually towards the end. SNAP days show an increase in sales, ranging from at least 4% to as high as 30% compared to non-SNAP days.
-
-This analysis highlights the complex and varied sales patterns across different dimensions such as time, category, state, and event influence at Walmart stores.
-
 The model and metrics are listed below. The best performing have LgbmRegressor  model.
 
 
