@@ -50,7 +50,7 @@ The model and metrics are listed below. The best performing have LgbmRegressor  
 
 | Model                                         |   WRMSSE |
 |-----------------------------------------------|----------|
-| Seasonal Naive Model                          |   0.7524 |
+| Naive Model                                   |   0.7524 |
 | Moving Average                                |   1.6915 |
-| LgbmRegressor                                 |   0.6076 |
-| SGDRegressor                                  |   1.1055 |
+| LgbmRegressor                                 |   0.6665 |
+| SGDRegressor                                  |   0.9626 |
